@@ -1,0 +1,7 @@
+{
+  "name": "Smart Campus Assistant",
+  "description": "An AI-powered chatbot to help students and staff navigate campus life. Get instant answers about schedules, facilities, dining, library services, administrative procedures, College timings, events schedule and holidays circular",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
